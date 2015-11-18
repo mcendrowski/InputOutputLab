@@ -22,6 +22,7 @@ public class MailingAddress implements MailingListStrategy {
 
     public MailingAddress() {
     }
+    
 
     @Override
     public String getFirstName() {
